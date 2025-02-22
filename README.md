@@ -1,4 +1,4 @@
-# Signup Page
+# Signup Page -
 
 This project is a simple signup page that allows users to create an account by providing their username, email, and password. 
 
